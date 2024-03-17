@@ -1,6 +1,6 @@
 // class Person {
 
-const { text } = require("express");
+
 
 //     constructor(
   
@@ -32,16 +32,16 @@ const { text } = require("express");
 //   const person2 = new Person('Rohan', 'Sharma', 28, 'Jaipur')
 //   console.log(pe);
 
-let name = "nilu";
+// let name = "nilu";
 
-function greet(){
-    console.log("greeting:" ,name);
-    var x = 10;
-    function test(){
-        console.log(x);
-    }
-    test()
-}
+// function greet(){
+//     console.log("greeting:" ,name);
+//     var x = 10;
+//     function test(){
+//         console.log(x);
+//     }
+//     test()
+// }
 
 
-greet();
+// greet();
